@@ -351,3 +351,4 @@ MigrationBackup/
 
 # #Imagenes del proyecto
 # img/
+.vscode/
